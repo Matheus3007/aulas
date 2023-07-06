@@ -14,8 +14,33 @@
               "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "e5ca7734fe4e20e2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SO/Multiprocessamento/Multiprocessadores simétricos.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ca2b0928b44d2fa8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SO/Multiprocessamento/Memória com múltiplas portas.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -81,6 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "SO/Multiprocessamento/Memória com múltiplas portas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "SO/Multiprocessamento/Memória com múltiplas portas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +145,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "SO/Multiprocessamento/Memória com múltiplas portas.md"
+              }
             }
           }
         ]
@@ -138,12 +167,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5a2e5468e4cf755e",
+  "active": "ca2b0928b44d2fa8",
   "lastOpenFiles": [
+    "SO/Multiprocessamento/Multiprocessadores simétricos.md",
+    "SO/Multiprocessamento/Memória com múltiplas portas.md",
+    "Pasted image 20230706183913.png",
+    "SO/Multiprocessamento/escalonamento.md",
+    "SO/Multiprocessamento/Attachments/TempoCompartilhadoCache.png",
+    "SO/Multiprocessamento/Barramento de tempo compartilhado.md",
+    "SO/Multiprocessamento/Attachments/Diagrama barramento compartilhado.png",
+    "SO/Multiprocessamento/Attachments/Arquitetura SMP.png",
+    "Pasted image 20230706180616.png.md",
+    "SO/Multiprocessamento/Attachments",
+    "test.md",
+    "SO/Multiprocessamento",
+    "SO",
     "SO/test.md",
     "SO",
     "Redes",
-    "OAC",
-    "test.md"
+    "OAC"
   ]
 }
