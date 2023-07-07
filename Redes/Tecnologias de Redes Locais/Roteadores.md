@@ -1,0 +1,2 @@
+- Dispositivos da camada de rede.
+- Convertem [[Camada Física|fisico]] -> [[Camada de Enlace|enlace]] -> rede -> enlace -> fisico e retransmitem em função dos IP's de destino

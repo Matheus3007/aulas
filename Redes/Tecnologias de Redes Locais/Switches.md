@@ -1,0 +1,4 @@
+- Dispositivos de rede da camada de enlace
+- Convertem [[Camada Física|físico]] -> [[Camada de Enlace|enlace]] -> físico e retransmitem.
+- Podem ter vários switches.
+- Em função do frame decide para que switch/[[Roteadores|roteador]]/dispositivo enviar o pacote
