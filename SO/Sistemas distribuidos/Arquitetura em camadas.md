@@ -1,0 +1,5 @@
+- Organiza um problema em partes menores
+	- Os componentes são organizados em camadas
+	- Um componente na camada $L_{i}$ tem permissão de chamar componentes na camada subjacente $L_{i-1}$
+	- O controle flui de camada para camada -> Requisições descem e resultados sobem
+- Um exemplo é o modelo OSI.

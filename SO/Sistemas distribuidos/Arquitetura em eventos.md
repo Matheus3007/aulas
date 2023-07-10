@@ -1,0 +1,3 @@
+- Também denominado sistemas publicar/subescrever (tipo o MQTT)
+- As funcionalidades são descritas como reação a eventos
+	- Componentes subscrevem certos eventos.

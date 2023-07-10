@@ -1,0 +1,4 @@
+- Todo nó que entra na rede segue uma regra definida (processo sistemático)
+- Nós são mapeados no espaço pelo seu identificador.
+	- Exemplo, seu endereço pode utilizar uma hash aplicada a seu IP
+- Comumente isso é feito por uma tabela de hash distribuída (DHT)

@@ -1,0 +1,8 @@
+- A comunicação é definida por meio de opreações de send e receive
+- É o bloco básico das formas de comunicação
+- Exemplos:
+	- HTTP
+	- MPI
+	- Sockets
+		- Ligação lógica entre dois pontos de uma rede
+		- Manipula (envia/recebe) bytes

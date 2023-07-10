@@ -1,0 +1,11 @@
+- Arquitetura P2P não estruturada
+	-  Não existe uma definição de onde os nós devem ser colocados
+	- Cada nó começa conhecendo alguns vizinhos e se conectando a eles
+	- Os nós trocam informações com seus vizinhos
+	- Só conhecem os vizinhos
+- Buscas são realizadas através de perguntas aos nós vizinhos
+	- Protocolo de fofoca (gossip)
+	- A consulta termina ao atingir um limite determinado de nós visitados (Time To Live - TTL)
+- É possível aprimorar a rede não estruturada com a adição de super-peers.
+	- Super-peers são nós que ficam mais tempo na rede e tem recursos melhores.
+	- Tomam posição mais central enquanto outros nós ficam na periferia

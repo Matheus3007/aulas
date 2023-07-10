@@ -1,0 +1,9 @@
+- Centralizadas
+	- [[Cliente-Servidor]]
+- Não centralizadas
+	- [[Arquitetura de sistema estruturada]]
+	- [[Arquitetura de sistema não estruturada]]
+	- Exemplos:
+		- Peer-to-Peer
+			- Serviços podem ser implantados em todos os lugares
+			- Não há um servidor fixo. Um nó pode atualizar

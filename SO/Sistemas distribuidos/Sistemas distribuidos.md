@@ -1,0 +1,13 @@
+## Introdução
+- Forma de aumentar a capacidade de processamento utilizando várias máquinas separadas
+- Reduz latência dividindo os trabalhos em computadores ao invés de dividir entre threads
+- Aumenta a disponibilidade
+- Garantir a **Transparencia** do sistema
+	- Permitir a visão de um sistema único. Ocultar a distribuição dos recursos
+	- O [[Raid]] é um exemplo de transparência
+- São consideravelmente complexos
+- Podemos visualizar um sistema distribuido em pedaços menores.
+- Existem três estilos arquitetônicos
+	- [[Arquitetura em camadas]]
+	- [[Arquitetura em objetos]]
+	- [[Arquitetura em eventos]]

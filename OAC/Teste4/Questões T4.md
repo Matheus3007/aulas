@@ -56,3 +56,25 @@ $$Ganho = \frac{taxaDespachoNova}{taxaDespachoAntiga}=\frac{0.95}{0.85}=1.117$$
 
 ---
 ###### Ao aumentar o número de processadores SIMD para 15, calcule o ganho. Essa mudança não afeta outras medidas de desempenho e o código está em proporção com os processadores adicionais.
+$$Ganho=\frac{nSimdProcsNovo}{nSimdProcsAntigo}=\frac{15}{10}=1.5$$
+
+---
+##### O throughput para esse Kernel nessa GPU?
+$$QResultadoNoCiclo = \frac{32}{4}=8$$
+$$FLOPs/Ciclo = {QResultadoNoCiclo*QRotas*QProc*TaxaDeDespacho*PercFP*PercThreadsAtivos}={8*8*10*0.85*0.7*0.8}$$
+$$FLOPs/Ciclo = $$
+---
+## Falácias e armadilhas.
+- GPU's sofrem por serem coprocessadores
+	- Falácia!
+- Concentrar-se no pico de desempenho em arquiteturas vetoriais e ignorar o overhead de inicialização
+	- Armadilha
+- Aumentar o desempenho vetorial sem aumentos comparáveis em desempenho escalar
+	- Armadilha
+- Você pode obter um bom desempenho vetorial sem fornecer largura de banda de memória
+	- Falácia
+	- DAXPY requer 1.5 referencia de memória por operação de FP
+- Nas GPUs, simplesmente adicione mais threads se não tiver desempenho de memória suficiente
+	- Falácia
+	- Se acessos a memória estão espalhados mas não correlacionados, sistema de memória fica mais lento
+	- Threads CUDA deveriam se comportar bem em termos de localidade
