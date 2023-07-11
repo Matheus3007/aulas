@@ -33,7 +33,7 @@
 ---
 
 ## Calculo de parâmetros
-![[Pasted image 20230710105347.png]]
+![[Pasted image 20230710105347 1.png]]
 ### Características:
 | Item                                       | quantidade |
 | ------------------------------------------ | ---------- |

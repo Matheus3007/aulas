@@ -1,0 +1,9 @@
+- Um circuito virtual consiste em um caminho entre hospedeiros de origem e de destino, um número para cada enlace ao longo do caminho e registros na taebla de repasse em cada roteador ao longo do caminho. 
+- Possuem caminhos exclusivos, mesmo com meio físico compartilhado
+- Comunicação fim-a-fim
+- Concatenações de [[Canais Lógicos]]
+- Podem ser utilizados para manter QoS de acordo com diversos critérios
+	- Múltiplos circuitos virtuais para o mesmo A e B com aspectos diferentes
+		- Menor quantidade de saltos
+		- Maior banda
+		- Menor latência

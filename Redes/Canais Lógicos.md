@@ -1,0 +1,3 @@
+- Conexões ponto a ponto
+- Concatenações formam [[Redes de circuitos virtuais]]
+- Utilizados para definir o próximo nó da rede
