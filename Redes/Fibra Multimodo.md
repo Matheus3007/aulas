@@ -1,0 +1,4 @@
+- Diâmetro maior, várias fibras em um fio.
+- Maior atenuação do sinal, mais perdas -> Menor distância de transmissão, até 2km
+- Geralmente utilizadas em comunicação da casa com o endpoint da rede do distribuidor.
+- Mais baratas

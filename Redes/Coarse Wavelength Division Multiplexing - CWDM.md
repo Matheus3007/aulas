@@ -1,0 +1,7 @@
+- Tipicamente opera com um número menor de canais de comprimento de onda (até 18) com um espaçamento maior entre eles.
+- Nem todos os canais precisam ser utilizados simultaneamente
+- Multiplexadores passivos -> São mais eficientes em termos de custos e ideiais para aplicações de distâncias menores, como redes MAN
+- Tipicamente utilizadas até 100km
+- **Pemite flexibilidade**, uma vez que utiliza um espaçamento maior entre os comprimentos de onda, não precisa de estabilização tão precisa da cor, permitindo a flexibilidade na seleção dos equipamentos.
+- Maior custo beneficio quando comparadas com DWDM, já que possuem designs mais simples.
+- 

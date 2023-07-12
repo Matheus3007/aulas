@@ -1,3 +1,3 @@
 - Dispositivos da camada de rede.
 - Convertem [[Camada Física|fisico]] -> [[Camada de Enlace|enlace]] -> rede -> enlace -> fisico e retransmitem em função dos IP's de destino
-- São utilizados para conexar redes de comutação de pacotes com redes locais
+- São utilizados para conectar redes de comutação de pacotes com redes locais

@@ -1,0 +1,5 @@
+- Diâmetro interno menor (cerca de 8 microns)
+- Menos perdas pois a luz passa em feixes únicos
+- Suporte a distâncias maiores (até 40km)
+- Geralmente utilizadas na distribuição
+- Mais frágeis

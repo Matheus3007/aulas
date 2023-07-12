@@ -1,0 +1,2 @@
+- Ultra densa, tem mais de 128 canais de 10Gbps
+- Banda de mais de 1.28Tbps

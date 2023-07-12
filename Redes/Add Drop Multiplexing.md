@@ -1,0 +1,4 @@
+- Habilidade de utilizar um multiplexador óptico para adicionar ou excluir comprimentos de onda (canais) específicos em pontos intermediários da rede.
+- Permite extração de comprimentos de onda especificos vindo de um sinal óptico (drop) e a inserção de novos comprimentos de onda ao sinal (add))
+- Manipular o sinal pode causar degradação do sinal
+- Gerenciamento de controle requer planejamento cuidadoso e eficiente ao redor da rede para coordenar a operação.
