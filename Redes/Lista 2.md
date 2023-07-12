@@ -11,7 +11,7 @@ Endereçamento físico é aquele relativo diretamente ao dispositivo com o qual 
 Circuitos virtuais são os caminhos definidos dentro de uma rede para se chegar de um ponto A ao ponto B. Eles não representam necessariamente dispositivos físicos, mas sim o conjunto de dispositivos em uma rede para se chegar de um ponto ao outro. Canais lógicos são as conexões ponto a ponto. Um circuito virtual é formado por um conjunto de canais lógicos **concatenados**.
 Canais lógicos são utilizados para definir qual o próximo nó da rede a ser seguido. Já circuitos virtuais são utilizados para garantir qualidade de serviço de acordo com o critério desejado
 
-## Suponha uma rede de comutação de pacotes como o da figura abaixo. Mostre como devem ser construídas as tabelas de comutação dos switches SP, RJ, BSB, RE e VT, no caso de existir pelo menos um circuito virtual entre cada par de estações.
+## Suponha uma rede de comutação de pacotes como o da figura abaixo. Mostre como devem ser construídas as [[Tabela de comutação|tabelas de comutação]] dos switches SP, RJ, BSB, RE e VT, no caso de existir pelo menos um circuito virtual entre cada par de estações.
 ![[Imagem do WhatsApp de 2023-07-11 à(s) 10.50.48.jpg]]
 ### SP
 

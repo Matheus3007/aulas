@@ -40,4 +40,14 @@ Os principais tipos são a [[Arquitetura Ponto-a-Ponto]], onde os dois pontos s�
 
 ## Quais os tipos de comutação óptica que existem? Quais são os desafios existentes?
 
-Os principais tipos de comutação são [[Add Drop Multiplexing]], [[Optical Cross Connect]] e [[Multicast Optical Cross Connect]]. 
+Os principais tipos de comutação são [[Add Drop Multiplexing]], [[Optical Cross Connect]] e [[Multicast Optical Cross Connect]]. O primeiro faz uso de um multiplexador para definir o que entra e o que sai da rede, podendo desviar fluxos ópticos diferentes através do comprimento de onda, enquanto o segundo e o terceiro utilizam switches ópticos capazes de chavear o sinal na entrada para qualquer porta de saída a depender de seu destino. O terceiro é muito similar ao segundo, porém com um spliter ou amplificador na saída, permitindo que o sinal de entrada seja transmitido para quantas portas forem necessárias, possibilitando a [[comunicação multicast]] com o switch óptico. Todas estas tecnologias são excelentes, porém apresentam grandes desafios de implementação, especialmente no que trata de manter a qualidade do sinal, uma vez que ele será manipulado diretamente e também em como realizar o controle de forma adequada e eficiente sem perder a eficiência da comunicação, que é muito rápida por se tratar de um canal óptico.
+
+## Quais são os principais desafios para puxar cabos submarinos? O que representa a malha de cabos submarinos existentes hoje?
+
+Para se puxar cabos submarinos, primeiro é preciso considerar a dificuldade de se posicionar a fibra sem danifica-la, uma vez que é extremamente sensível por natureza. Além disso, trata-se de um único cabo atravessando extensões oceânicas, portanto é necessário garantir que nenhum de seus trechos se danifique no processo, que já é lento. Para garantir a qualidade do sinal, é importante que junto ao cabo sejam instalados repetidores capazes de manter a transmissão de maneira saudável, por fim, vale também ressaltar que por se tratarem de serviços de comunicação base, sua localização é conteudo sensível e deve ser mantida em segredo para evitar problemas de segurança. Hoje em dia, alguns dos principais cabos submarinos internacionais são:
+- SACS -> Atlântico Sul, fortaleza a Luanda
+- SAIL -> Fortaleza a camarões
+- BRUSA -> Brasil a porto rico e aos eua
+- Tannat -> Praia grande a Maldonado
+- Junior -> Rio de janeiro à Praia grande, apenas dados do google.
+

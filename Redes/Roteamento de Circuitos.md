@@ -1,0 +1,1 @@
+Roteamento de circuitos é a prática de, dentro de uma rede, mapear a topologia e definir as ligações fim a fim, ou seja, de certa forma o roteamento estabelece o conhecimento dos [[Canais Lógicos]], para que a rede possa construir seus [[Redes de circuitos virtuais]].

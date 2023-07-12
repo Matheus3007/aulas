@@ -1,0 +1,1 @@
+Técnica de transmissão de dados onde os pacotes são armazenados e verificados antes de serem enviados para o próximo destino.
