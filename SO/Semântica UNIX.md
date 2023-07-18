@@ -1,0 +1,8 @@
+- Em sistemas de processador único, a semântica declara que quando uma operação de read vem depois de uma operação de write, a read retorna o valor que acabou de ser escrito
+- Em sistemas de arquivos distribuídos a semântica UNIX pode ser obtida facilmente desde que haja somente um servidor de arquivos
+	- O servidor recebe as operações de read write
+	- Enfileira as operações
+	- Processa em sequência e evita problemas de sincronização
+- Apesar de simples, o processo anterior gera um gargalo uma vez que um servidor é responsável em atender todas as requisições
+- Uma alternativa é permitir que clientes mantenham uma ciópia local do arquivo (cache) manipulado
+	- Clientes podem ver versões diferentes do arquivo

@@ -1,0 +1,3 @@
+- Quando um cliente descarrega um arquivo do servidor e acessa o arquivo descarregado localmente
+- Após concluir a utilização do arquivo, este é enviado de volta para o servidor
+	- FTP é um exemplo

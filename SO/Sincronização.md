@@ -1,0 +1,7 @@
+- Quando dois ou mais processos compartilham o mesmo arquivo ao mesmo tempo, é preciso definir a semântica de leitura e de escrita
+- Teoricamente, a sincronização de arquivos no mesmo sistema não deveria ser um problema
+- Técnicas:
+	- [[Semântica UNIX]]
+	- [[Semântica de sessão]]
+	- [[Transações]]
+- [[Travamento de arquivo]]

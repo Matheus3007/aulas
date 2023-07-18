@@ -1,0 +1,13 @@
+- Executa diretamente no hardware
+	- Consegue gerenciar CPU e memória somente
+- Não é possível rodar um sistema operacional diretamente no hypervisor uma vez que não possui driver de dispositivos
+	- Disco, rede
+- Exemplo
+	- Xen
+- Existem dois dominios:
+	- DOM0
+		- Máquina virtual inicializada no momento do boot com permissão total
+		- Responsável pela criação e gerenciamento de outras VMs, responsável pelo hardware e pela oredenação de E/S das VMs
+		- Centralizar os drivers no DOM0 diminui a incompatibilidade entre os sistemas operacionais
+	- DOM1
+		- Maquinas virtuais de proposito geral

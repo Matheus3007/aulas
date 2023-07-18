@@ -1,0 +1,12 @@
+- Um cliente acessa o sistema de arquivo usando as chamadas de sistemas fornecidas pelo seu sistema operacional
+	- A interface do sistema local é substituida por uma interface para o sistema de arquivo virtual (Virtual File System - VFS)
+	- O cliente faz a chamada mas existe uma chamada virtual
+	- Fornece uma interface de sistema de arquivo padrão, que permite ocultar a diferença entre acessar o sistema de arquivos local ou remoto.
+	- A ideia do VFS é ocultar as diferenças entre vários sistemas de arquivos
+- As operações da interface VFS são passadas para um sistema local de arquivos ou para um componente separado conhecido como cliente NFS
+	- O cliente NFS é responsável por manipular os arquivos remotos
+- Toda a comunicação é realizada por meio de [[Chamada de procedimento remoto (RPC)|RPCs]] 
+- O cliente implementa as operações de sistemas de arquivos NFS como RPCs para o servidor
+- O servidor NFS é responsável por manipular 
+- Gera uma independencia em relação ao sistema local de arquivos
+- Não importa o OS do cliente ou servidor, basta ter compatibilidade com o NFS 

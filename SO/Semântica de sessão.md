@@ -1,0 +1,3 @@
+- Define que as alterações feitas em um arquivo aberto são visiveis apenas ao proecsso que mudou o arquivo
+	- Somente quando o arquivo for fechado as alterações devem ficar visíveis para outros processos
+	- [[Modelo de carga e atualização]]

@@ -1,0 +1,5 @@
+- Para acessar um arquivo compartilhado um processo executa uma primitiva BEGIN_TRANSACTION indicando que a execução do que vem a seguir deve ser indivisível
+	- Na sequência veem as operações no arquivo
+- Após todas as operações o processo executa a primitiva END_TRANSACTION
+- A principal propriedade é que este sistema garante que as operações realizadas dentro da transação acontecerão em ordem sempre.
+- Operações atômicas

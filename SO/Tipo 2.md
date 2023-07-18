@@ -1,0 +1,4 @@
+- Executa sobre outro SO, para alocar e escalonar recursos
+- Exemplo
+	- Virtualbox
+	- VMware

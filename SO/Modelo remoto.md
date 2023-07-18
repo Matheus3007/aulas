@@ -1,0 +1,4 @@
+- Oferecida uma interface ao cliente com várias operações sobre arquivos
+	- Interface emelhante a de um sistema local (transparência)
+- O servidor é responsável por implementar essas operações
+	- Um exemplo é o sistema de arquivo de rede ([[Network File System - NFS]])

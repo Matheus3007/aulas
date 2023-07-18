@@ -1,0 +1,3 @@
+- Tipos:
+	- [[Modelo de carga e atualização]]
+	- [[Modelo remoto]]

@@ -1,0 +1,1 @@
+- Age como um programa do usuário fazendo chamadas do sistema para o sistema operacional (o hipervior)

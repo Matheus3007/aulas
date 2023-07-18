@@ -1,0 +1,3 @@
+- Software responsável pelo controle dos recuross de rede, memória, armazenamento e processamento
+	- [[Tipo 1]], Bare metal -> compete por recursos
+	- [[Tipo 2]] -> VMS competem com processos do sistema operacional hospedeiro
