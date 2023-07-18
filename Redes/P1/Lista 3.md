@@ -1,4 +1,4 @@
-## Quais as diferenças entre friba óptica [[Fibra Monomodo|Monomodo]] e [[Fibra Multimodo|multimodo]]? Explique como são construídas
+> ## Quais as diferenças entre friba óptica [[Fibra Monomodo|Monomodo]] e [[Fibra Multimodo|multimodo]]? Explique como são construídas
 
 A diferença entre fibra monomodo e multimodo encontra-se na quantidade de fibras contidas dentro do fio. A multimodo possuí várias fibras passando dentro do fio e faixas de operação menores, na casa de 850nm, enquanto a monomodo possui apenas menos fibras interna e uma faixa de operação um pouco mais alta, de cerca de 1310nm
 A construção da fibra óptica é feita através de um núcleo feito com vidro, a fibra óptica propriamente dita, cercado por um material isolante e protetor denominado casca e por fim uma capa feita de plástico, que tem como propósito proteger todo o conjunto. A diferença de construção de ambas reside apenas na diferença do diâmetro do núcleo, que é maior na multimodo.

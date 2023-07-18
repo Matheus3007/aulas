@@ -1,0 +1,17 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 134.9863716856994 223.27057536695537" width="134.9863716856994" height="223.27057536695537">
+  <!-- svg-source:excalidraw -->
+  
+  <defs>
+    <style class="style-fonts">
+      @font-face {
+        font-family: "Virgil";
+        src: url("https://excalidraw.com/Virgil.woff2");
+      }
+      @font-face {
+        font-family: "Cascadia";
+        src: url("https://excalidraw.com/Cascadia.woff2");
+      }
+    </style>
+    
+  </defs>
+  <g mask="url(#mask-TD9P8SB8QGIGx6hZGJ1SR)" stroke-linecap="round"><g transform="translate(124.45270829698521 11.134563377127051) rotate(0 -56.95952245413551 100.50072430635063)"><path d="M0.53 -1.13 C-18.69 32.25, -95.52 167.15, -114.45 200.8 M-0.65 0.88 C-19.58 34.39, -93.4 168.63, -112.22 202.14" stroke="#1e1e1e" stroke-width="1" fill="none"></path></g><g transform="translate(124.45270829698521 11.134563377127051) rotate(0 -56.95952245413551 100.50072430635063)"><path d="M-109.4 170.99 C-109.79 184.44, -111.55 195.83, -113.86 203.62 M-108.38 172.95 C-109.06 178.84, -110.45 187.08, -113.2 201.7" stroke="#1e1e1e" stroke-width="1" fill="none"></path></g><g transform="translate(124.45270829698521 11.134563377127051) rotate(0 -56.95952245413551 100.50072430635063)"><path d="M-91.45 180.95 C-98.61 190.75, -107.09 198.42, -113.86 203.62 M-90.44 182.92 C-95.55 186.42, -101.32 192.23, -113.2 201.7" stroke="#1e1e1e" stroke-width="1" fill="none"></path></g></g><mask id="mask-TD9P8SB8QGIGx6hZGJ1SR"><rect x="0" y="0" fill="#fff" width="337.9966392940745" height="312.32644110881176"></rect><rect x="55.29740959226379" y="89.23050224296941" fill="#000" width="24.766666412353516" height="45" opacity="1"></rect></mask><g transform="translate(55.29740959226379 89.23050224296941) rotate(0 12.195776250585908 22.404785440508277)"><text x="12.383333206176758" y="0" font-family="Virgil, Segoe UI Emoji" font-size="36px" fill="#1e1e1e" text-anchor="middle" style="white-space: pre;" direction="ltr" dominant-baseline="text-before-edge">0</text></g></svg>

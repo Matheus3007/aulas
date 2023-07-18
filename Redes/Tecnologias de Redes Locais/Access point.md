@@ -1,0 +1,6 @@
+- Comunica uma rede sem fio com rede cabeada
+- Não é um roteador
+- AP foca apeas em camada dois -> Portas cabeadas e roteamento serão feitos por outros equipamentos da rede
+- Roteador wireless doméstico -> Implementa múltiplas funções para facilitar a instalação nos ambientes domésticos
+	- [[Bridges|Bridging]]
+	- Roteamento

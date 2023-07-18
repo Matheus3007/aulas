@@ -1,3 +1,11 @@
 - Comutação de circuitos é uma abordagem fundamental de locomoção de dados em uma rede diferente da [[Comutação de pacotes]].
 - Recursos necessários ao longo de um caminho são reservados pelo período da sessão de comunicação entre os sistemas finais.
 - Exemplo de redes de comutação de circuitos -> Telefonia tradicional
+---
+## Vantagens e desvantagens
+- Baixo Jitter
+- Sem congestionamento
+- Capacidade fixa
+- Desperdício de banda
+- Menor disponibilidade média
+- Menor overhead

@@ -1,0 +1,2 @@
+- Conceito em arquitetura de memória
+- Se refere a proximidade de dados das áreas mais velozes da memória.

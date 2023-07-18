@@ -1,0 +1,7 @@
+- Como dividir uma rede em 3 subredes?
+	- Basta conhecer cada rede e conecta-las a um [[Roteadores|roteador]]
+- E dividindo a rede em 3 subredes?
+	- Criam-se [[Redes Virtuais]]
+	- As portas voltadas aos hosts ficam associadas as vlans apropriadas
+	- Configurar as portas dos [[Switches|enlaces entre equipamentos]] de rede para usar tags
+	- Colocar um [[VLAN#Switch de camada 3|Switch L3]] entre as [[VLAN|VLANS]]

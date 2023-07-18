@@ -1,0 +1,8 @@
+- [[Equipamentos de rede de camada 2 e superiores|Camada 2]]
+	- Examina mac de destino do quadro e encaminha p uma ou mais portas de saida
+- Transparente
+	- Hosts não enxergam presença de switches
+- Plug-And-Play, self-learning
+	- [[Switches]] não precisam ser configurados para uso básico
+	- [[Endereços físicos - MAC|Endereços MAC]] associados a cada porta são aprendidos à medida em que os dados trafegam na rede
+	- [[Learning switch]]

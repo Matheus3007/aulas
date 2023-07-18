@@ -1,0 +1,5 @@
+- Crítica aos monopólios -> Altos lucros dos monopolistas
+	- Lucros obtidos em detrimento dos consumidores
+- Contraponto -> Não necessáriamente implica no prejuizo dos consumidores
+	- Monopólios surgem quando uma empresa descobre uma maneira mais eficiente de fazer algo
+	- Só inovam se elas puderem esperar lucros elevados como retorno

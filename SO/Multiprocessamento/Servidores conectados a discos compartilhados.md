@@ -1,0 +1,3 @@
+- Os nós são conectados aos mesmos discos, que são compartilhados entre todos os nós
+	- Reduz sobrecarga de copiar conteúdo de servidores separados como no caso de [[Servidores conectados a discos]] [+]
+	- Requer gerenciamento de bloqueio de acesso a discos por software para que dados possam ser acessados apenas por um nó por vez, assim evitando condições de corrida e conflitos. [-]

@@ -1,0 +1,1 @@
+- Não dá pra considerar a ganancia como algo bom porque as vacinas só vão funcionar quando a maior parte das pessoas estiver vacinada

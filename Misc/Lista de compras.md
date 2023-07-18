@@ -1,0 +1,12 @@
+- [x] Peito de frango
+- [x] Alface
+- [x] Pão
+- [x] Ovo
+- [x] sal
+- [x] paprica
+- [x] manteiga
+- [x] mussarela ralada
+- [ ] farinha
+- [x] penne
+- [ ] creme de leite
+- [ ] nescau

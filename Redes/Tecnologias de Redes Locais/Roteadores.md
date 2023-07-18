@@ -1,3 +1,4 @@
 - Dispositivos da camada de rede.
 - Convertem [[Camada Física|fisico]] -> [[Camada de Enlace|enlace]] -> rede -> enlace -> fisico e retransmitem em função dos IP's de destino
 - São utilizados para conectar redes de comutação de pacotes com redes locais
+- **NÃO EXISTE ROTEADOR WIRELESS**

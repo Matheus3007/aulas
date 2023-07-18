@@ -1,0 +1,3 @@
+- Nome original de um dispositivo de camada 2
+- Em algumas situações especificas ainda existe
+	- Comunicação de máquinas virtuais (VMs) entre si e com a rede física em um sistema Linux

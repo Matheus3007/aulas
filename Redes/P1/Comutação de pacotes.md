@@ -10,3 +10,11 @@ Abordagem de transmissão de dados em uma rede que busca transmitir vários paco
 - Não suporta aplicações sensíveis a atraso (**Pode produzir latência**)
 - Perda de pacotes devido ao congestionamento da rede
 - Perda de sequencia dos pacotes requer reordenação no destino
+---
+## Vantagens e desvantagens
+- Jitter
+- Suporta tráfego burst
+- Tráfego agregado estatisticamente
+- Sem alocação fixa de recursos
+- Perda de pacotes
+- Rotas alternativas

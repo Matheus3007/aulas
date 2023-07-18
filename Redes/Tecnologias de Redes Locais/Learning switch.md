@@ -1,0 +1,2 @@
+- O switch registra de onde veio em uma tabela e aprende o MAC
+- Processo automático
